@@ -1,2 +1,2 @@
 # plsql-ftp
-PL/SQL FTP Package with TLS support
+PL/SQL FTP Package with explicit TLS support
